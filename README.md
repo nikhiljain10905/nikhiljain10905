@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhiljain10905
 - 👀 I’m interested in coding and development, exploring new things always keen to learn new things.
-- 🌱 I’m currently learning data structure and algorithms and web development.
+- 🌱 I’m currently learning data structure and algorithms and AI/ML.
 - 💞️ I’m looking to collaborate on unique and interesting projects.
 - 📫 How to reach me contact me through my email nikhiljain.10905@gmail.com.
 - 😄 Pronouns: he/him.
